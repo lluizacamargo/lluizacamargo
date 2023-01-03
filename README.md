@@ -9,7 +9,7 @@ Thank You for taking the time to view my GitHub Profile 😊
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lluizacamargo&show_icons=true&theme=radical) <div align="center">
+<div align="center">
 <img width="221px" height = "221px" align="right"  src="https://octodex.github.com/images/momtocat.png" alt="cover" />
 </div></br>
 
